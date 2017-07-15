@@ -7,3 +7,6 @@ TODO: write code.
 
 pass tests
 
+coursera week 9
+---
+anomaly detection
