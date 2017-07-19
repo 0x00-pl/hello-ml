@@ -14,3 +14,8 @@ anomaly detection
 recommender systems
 
 pass tests, nice work!
+
+
+coursera week 10
+---
+finished
